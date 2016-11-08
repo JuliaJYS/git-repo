@@ -1,3 +1,5 @@
 print('Hello,world;')
 print('Hi;')
 print('ok;')
+print('hi 3')
+print
